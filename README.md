@@ -3,7 +3,7 @@
 #### We learn to create Token, add credentials 
 Learn to creating repo, clone the repo and use commands for commit the changes, push into the repo.  
 
-# Invetyv Branching Demo  
+# Branching Demo Structure  
 
 #### There is one main branch intiality called 'prod' branch too
 
