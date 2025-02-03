@@ -61,10 +61,13 @@ A pull request, often abbreviated as PR, serves as a proposal to merge changes m
 ![alt text](image-1.png)
 
 ## Owner can see this:
-![alt text](image-3.png)
+![alt text](image-6.png)
 
 ## Owner can create pull request:
 ![alt text](image-4.png)
+
+## Files Changing status
+![alt text](image-7.png)
 
 ## Merge PR 
 ![alt text](image-5.png)
